@@ -4,7 +4,6 @@
     animation: fadeIn 0.6s cubic-bezier(0.55, 0.055, 0.675, 0.19);
 }
 
-/* line 161, ../scss/partials/_components.scss */
 .logo__char--w,
 .logo__char--a,
 .logo__char--x {
@@ -14,19 +13,19 @@
     position: relative;
     top: -0.5rem;
 }
-/* line 174, ../scss/partials/_components.scss */
+
 .logo__char--w {
     -webkit-animation-delay: 0.3s;
     -moz-animation-delay: 0.3s;
     animation-delay: 0.3s;
 }
-/* line 178, ../scss/partials/_components.scss */
+
 .logo__char--a {
     -webkit-animation-delay: 0.34s;
     -moz-animation-delay: 0.34s;
     animation-delay: 0.34s;
 }
-/* line 182, ../scss/partials/_components.scss */
+
 .logo__char--x {
     -webkit-animation-delay: 0.42s;
     -moz-animation-delay: 0.42s;
